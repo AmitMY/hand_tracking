@@ -4,10 +4,6 @@ import numpy as np
 import tensorflow as tf
 from sklearn.cluster import DBSCAN
 
-"""
-HAND TRACKER WITHOUT ROTATION ESTIMATION AND JOINT DETECTION
-"""
-
 
 class HandTracker():
     r"""
